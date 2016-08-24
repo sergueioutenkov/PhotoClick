@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoClick</string>
+    <string name="main_photo_button_text">Photo!</string>
+</resources>
